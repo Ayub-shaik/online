@@ -1,4 +1,8 @@
 this is ansible yaml sript
 this is 2nd line added for  aparallel devolopment from dev1
 
+<<<<<<< HEAD
 naya line
+=======
+aur ek naya line
+>>>>>>> 5daa519319edd262067305260e6f933911880b04
